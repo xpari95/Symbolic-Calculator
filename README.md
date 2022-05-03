@@ -1,5 +1,7 @@
 # Symbolic-Calculator
 A calculator where you enter a file with text (one equation per line) and it calculates the result
+
+
 Ι. Στόχος
 Στην εργασία αυτή θα ασχοληθούμε με αντικειμενοστραφή σχεδίαση προβλημάτων, σχεδίαση διεπαφών,
 κλάσεων, μεθόδους, αντικείμενα, κληρονομικότητα και πολυμορφισμό. Η άσκηση αποτελείται από πολλαπλά
